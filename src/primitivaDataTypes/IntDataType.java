@@ -17,7 +17,6 @@ int min = Integer.MIN_VALUE;
         System.out.println("a = " + a + ", b = " + b);
         System.out.println("result = " + result);
 
-
 	}
 
 }

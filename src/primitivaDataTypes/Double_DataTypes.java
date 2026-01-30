@@ -15,7 +15,6 @@ double pi = 3.141592653589793;
         System.out.println("div = " + div);
         System.out.println("sum = " + sum);
 
-
 	}
 
 }

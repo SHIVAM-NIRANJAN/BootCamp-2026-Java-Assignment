@@ -13,7 +13,6 @@ public class Byte_DataTypes {
         System.out.println("min = " + min + ", max = " + max);
         System.out.println("b = " + b + ", sum = " + sum);
 
-
 	}
 
 }

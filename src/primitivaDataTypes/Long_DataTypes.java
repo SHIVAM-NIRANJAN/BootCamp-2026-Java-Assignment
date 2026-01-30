@@ -18,7 +18,6 @@ public class Long_DataTypes {
         System.out.println("doubled = " + doubled);
 
 
-
 	}
 
 }

@@ -13,7 +13,6 @@ short min = Short.MIN_VALUE;
         System.out.println("min = " + min + ", max = " + max);
         System.out.println("s = " + s + ", sum = " + sum);
 
-
 	}
 
 }

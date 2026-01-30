@@ -16,7 +16,6 @@ public class Char_DataType {
         System.out.println("next   = " + next);
         System.out.println("numeric value of 'A' = " + (int) letter);
 
-
 	}
 
 }
